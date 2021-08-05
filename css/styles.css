@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+}
+img:not(.beaches) {
+  border: 1px solid #ddd; /* Gray border */
+  border-radius: 4px;  /* Rounded border */
+  padding: 5px; /* Some padding */
+  width: 150px; /* Set a small width */
+}
+.beaches {
+  padding: 10px;
+  width: 400px;
+  height: 200px;
+}
